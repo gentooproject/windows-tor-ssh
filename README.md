@@ -12,6 +12,7 @@ Install it and copy 7z.exe and 7z.dll to our work directory.
         IV: Toggle extensions.foxyproxy.socks_remote_dns to true
         IV. Enable Foxy Proxy and save your SSH Socks proxy as Socks 5
 4. Use the start.bat file included here: This file uncompress the Tor Browser in your Desktop, and then it launches the Tor Browser, finally a Shell Windows is opened in order to start the SSH connection. Please input your SSH passwords there.
+5. Finally create an autorun file so it executes automatically the  start.bat script each time your put the CD in.
 
 
 
