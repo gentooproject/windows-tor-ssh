@@ -11,6 +11,7 @@ Install it and copy 7z.exe and 7z.dll to our work directory.
         III. Open The Foxy Proxy extension (included in the compressed file) in the TOR Browser and install it, else download the extension file by yourself.
         IV: Toggle extensions.foxyproxy.socks_remote_dns to true
         IV. Enable Foxy Proxy and save your SSH Socks proxy as Socks 5
+4. Use the start.bat file included here: This file uncompress the Tor Browser in your Desktop, and then it launches the Tor Browser, finally a Shell Windows is opened in order to start the SSH connection. Please input your SSH passwords there.
 
 
 
